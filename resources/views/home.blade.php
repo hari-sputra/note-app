@@ -24,7 +24,7 @@
                 <div class="pl-[64px] w-[50%]">
                     <h1 class="text-[48px] font-bold ">Your daily journey is coming to digital paper now.</h1>
                     <h3 class="text-[36px]">Write whatever you lived and what you thought.</h3>
-                    <a href="#" class="btn text-white mt-[24px] px-[80px]">Try Journey,
+                    <a href="{{ route('login') }}" class="btn text-white mt-[24px] px-[80px]">Try Journey,
                         It's
                         free.</a>
                 </div>
